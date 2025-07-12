@@ -2,9 +2,6 @@
 Đây là Git chính thức của NHQTools.
 Các thông tin liên quan đến các tools trong hệ sinh thái Tools sẽ được cập nhật tại đây.
 ## Các kênh:
-- Website chính thức: https://nhq.tools
-- Youtube: https://www.youtube.com/@nhqtools
-- Facebook: https://www.facebook.com/nhqtools/
 
 ## Phiên bản cập nhật 2.5.7 (2025-06-16):
 **NHQTools cập nhật các tính năng mới cho TTS STUDIO và Video Tools**
@@ -103,10 +100,6 @@ Còn rất nhiều các tính năng hay cũng như nâng cao khác được tíc
 Hiện tại, tool hỗ trợ trên Windows. Anh em nào có nhu cầu chạy trên Mac (Intel hay Silicon) hoặc build bản riêng cho linux thì hãy liên hệ với mình nhé.
 
 Anh em có thể xem qua chi tiết các tính năng của tool và hướng dẫn sử dụng chi tiết tại trang chủ NHQTools: https://nhq.tools
-- Tài liệu hướng dẫn: https://nhq.tools/docs/nhq-vid/setup
-- Giới thiệu tổng quan: https://nhq.tools/vi/features/nhq-vid
-- Tải về và cài đặt: https://nhq.tools/downloads
-- Liên hệ: https://nhq.tools/contact
 
 Cảm ơn anh em đã xem.
 Rất mong được sử ủng hộ của anh em.
